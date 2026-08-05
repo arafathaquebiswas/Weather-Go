@@ -1,0 +1,6 @@
+{
+  "name": "Weather Go",
+  "description": "Dynamic live weather app featuring 24h & 7-day forecasts, AI insights, and location search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

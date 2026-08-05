@@ -1,0 +1,66 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Sun Ring (Orange Gold ring behind cloud) -->
+    <path
+        android:pathData="M 52,22 A 12,12 0 1,1 51.99,22"
+        android:fillColor="#00000000"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+    <!-- Cloud Base Body -->
+    <path
+        android:pathData="M 33,56 C 28,56 24,52 24,47 C 24,42.5 27,38.8 31.2,38.1 C 32.5,31.8 38,27 44.5,27 C 50.2,27 55.1,30.8 56.8,36.1 C 58.2,35.4 59.8,35 61.5,35 C 66.7,35 71,39.3 71,44.5 C 71,45.2 70.9,45.8 70.7,46.5 C 74.3,47.8 77,51.1 77,56 Z"
+        android:fillColor="#0284C7" />
+
+    <!-- Cloud Top Gloss Highlight -->
+    <path
+        android:pathData="M 44.5,27 C 50.2,27 55.1,30.8 56.8,36.1 C 58.2,35.4 59.8,35 61.5,35 C 66.7,35 71,39.3 71,44.5 C 65,42.5 58,41 50,42.5 C 42,44 36,41 32,43 C 32.2,37 38,27 44.5,27 Z"
+        android:fillColor="#38BDF8" />
+
+    <!-- Diagonal Rain Dashes -->
+    <!-- Dash set 1 -->
+    <path
+        android:pathData="M 42,61 L 36,69"
+        android:fillColor="#00000000"
+        android:strokeColor="#0284C7"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 48,61 L 42,69"
+        android:fillColor="#00000000"
+        android:strokeColor="#0284C7"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 54,61 L 48,69"
+        android:fillColor="#00000000"
+        android:strokeColor="#0284C7"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+
+    <!-- Dash set 2 (lower level) -->
+    <path
+        android:pathData="M 46,71 L 40,79"
+        android:fillColor="#00000000"
+        android:strokeColor="#0284C7"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 52,71 L 46,79"
+        android:fillColor="#00000000"
+        android:strokeColor="#0284C7"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 58,71 L 52,79"
+        android:fillColor="#00000000"
+        android:strokeColor="#0284C7"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+
+</vector>
